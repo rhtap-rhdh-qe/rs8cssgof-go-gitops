@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: rs8cssgof-go-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/rs8cssgof-go-gitops
